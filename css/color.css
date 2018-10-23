@@ -1,0 +1,61 @@
+::-moz-selection  {
+  color: #FFFFFF;
+  background: #f1c40f;
+}
+::selection {
+  color: #FFFFFF;
+  background:#f1c40f;
+}
+a {
+  color: #f1c40f;
+}
+.selected {
+  color: #f1c40f !important;
+}
+strong { color: #f1c40f; }
+blockquote, blockquote p { color: #f1c40f; }
+.icons-ul i { color:#f1c40f; }
+.ha-header nav a:hover {
+  color: #f1c40f;
+}
+.hero-title span {
+  color:#f1c40f;
+}
+.about-icon {
+  background:#f1c40f;
+}
+.info h3 {
+  color:#f1c40f;
+}
+.cta-section {
+  background:#f1c40f !important;
+}
+.contact-wrap h3 {
+  color:#f1c40f;
+}
+.social-title {
+  color:#f1c40f;
+}
+.count {
+  color:#f1c40f;
+}
+.client-section {
+  background:#f1c40f !important;
+}
+.footer i {
+  color:#f1c40f;
+}
+.copyright a:hover {
+  color:#f1c40f;
+}
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  background:#f1c40f;
+}
+.social-link:hover .social-icon,
+.portfolio-caption {
+  background:rgb(241, 196, 15);
+  background:rgba(241, 196, 15, 0.85);
+}
